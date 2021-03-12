@@ -1,6 +1,6 @@
 {
   "name": "@vandorensales/eslint-config-vds-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Our eslint config to be used for all of our nodejs projects, to keep consistency.",
   "main": "index.js",
   "scripts": {
